@@ -4,31 +4,21 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
-# Product/Platform - Task
+# XAF - Add .NET Aspire to an XAF Blazor Project
 
-This is the repository template for creating new examples. Describe the solved task here.
+[.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview) is a collection of tools, templates, and packages for developing observable, production-ready applications. You can integrate .NET Aspire into your XAF Blazor application and utilize its orchestration features.
 
-Put a screenshot that illustrates the result here.
+This example adds Aspire functionality to a sample application and represents as a practical implementation of actions described in the following blog post: [.NET Aspire Support for an XAF Blazor Project](https://community.devexpress.com/blogs/news/archive/2025/03/20/net-aspire-support-for-an-xaf-blazor-project.aspx)
 
-Then, add implementation details (steps, code snippets, and other technical information in a free form), or add a link to an existing document with implementation details. 
+![XAF Aspire application](xaf-aspire-app.png)
 
 ## Files to Review
 
-- link.cs (VB: link.vb)
-- link.js
-- ...
+- [DataItem.cs](CS/XafAspireDemo.Module/BusinessObjects/DataItem.cs)
+- [Extensions.cs](CS/XafAspireDemo.ServiceDefaults/Extensions.cs)
+- [Startup.cs](CS/XafAspireDemo.Blazor.Server/Startup.cs)
+- [Program.cs](CS/XafAspireDemo.Blazor.Server/Program.cs)
 
-## Documentation
-
-- link
-- link
-- ...
-
-## More Examples
-
-- link
-- link
-- ...
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
