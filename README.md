@@ -5,9 +5,9 @@
 <!-- default badges end -->
 # XAF - Add .NET Aspire to an XAF Blazor Project
 
-[.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview) is a collection of tools, templates, and packages for developing observable, production-ready applications. You can integrate .NET Aspire into your XAF Blazor application to utilize its orchestration features. 
+[.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview) is a collection of tools, templates, and packages for developing observable, production-ready applications. You can integrate .NET Aspire into your XAF Blazor application and utilize its orchestration features.
 
-This example adds Aspire functionality to the application and serves as a practical implementation of the actions described in the following blog post: [.NET Aspire Support For An XAF Blazor Project](https://community.devexpress.com/blogs/news/archive/2025/03/20/net-aspire-support-for-an-xaf-blazor-project.aspx)
+This example adds Aspire functionality to a sample application and represents as a practical implementation of actions described in the following blog post: [.NET Aspire Support For An XAF Blazor Project](https://community.devexpress.com/blogs/news/archive/2025/03/20/net-aspire-support-for-an-xaf-blazor-project.aspx)
 
 ![XAF Aspire application](xaf-aspire-app.png)
 
