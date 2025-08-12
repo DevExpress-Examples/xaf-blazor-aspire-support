@@ -19,6 +19,10 @@ This example adds Aspire functionality to a sample application and represents as
 - [Startup.cs](CS/XafAspireDemo.Blazor.Server/Startup.cs)
 - [Program.cs](CS/XafAspireDemo.Blazor.Server/Program.cs)
 
+## Additional Examples
+
+- [XAF Blazor — .NET Aspire Support — Custom Telemetry, Service Orchestration, Database Dependency](https://github.com/DevExpress-Examples/xaf-blazor-aspire-advanced)
+- 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
