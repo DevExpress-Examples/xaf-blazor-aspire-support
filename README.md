@@ -24,7 +24,7 @@ This example adds Aspire functionality to a sample application and represents as
 - [XAF Blazor — .NET Aspire Support — Custom Telemetry, Service Orchestration, Database Dependency](https://github.com/DevExpress-Examples/xaf-blazor-aspire-advanced)
   
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-blazor-aspire-support&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-blazor-aspire-support&~~~was_helpful=no)
 
